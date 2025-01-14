@@ -1,0 +1,39 @@
+   Func_connect{
+        request_url
+    }
+    
+    Func_Seguranaa{
+                Autencicação
+                Tokens
+
+    }
+
+    Func_encerra{
+        Encerra_sessao
+        Desconecta
+        Retorna para Tela Inical
+    }
+
+    Func1{
+        codigo
+    }
+
+    Func2{
+        codigo
+    }
+
+    Func3{
+        codigo
+    }
+
+    Func4{
+        codigo
+    }
+
+    Func5{
+        codigo
+    }
+
+    Func6{
+        codigo
+    }
