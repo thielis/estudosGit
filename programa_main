@@ -1,11 +1,7 @@
 //Nucleo do programa
-<<<<<<< HEAD
-// Versao 2.0
-// 2025-01-14
-=======
-// Last ver: 2.0
-// Staging 2025-01-14 ver.2.1
->>>>>>> staging2
+// Versao ver.2.1
+//2025-01-14 
+
 main{
     
     Codigo Principal
