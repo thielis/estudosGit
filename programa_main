@@ -1,13 +1,30 @@
 //Nucleo do programa
 // Versao 1.0
-main(){
+main{
     
     Codigo Principal
+    Conexao: Func_connect
+    Autentica: Func_Seguranaca
+    Ecolha_func: Ler_opcao {
+        Op1: Func1
+        Op2: Func2
+        Sair: Func_encerra
+    }
     
-    Func Seguranaa{
+    Func_connect{
+        request_url
+    }
+    
+    Func_Seguranaa{
                 Autencicação
                 Tokens
 
+    }
+
+    Func_encerra{
+        Encerra_sessao
+        Desconecta
+        Retorna para Tela Inical
     }
 
     Func1{
@@ -19,6 +36,5 @@ main(){
     }
 
 }
-
 
 
