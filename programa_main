@@ -1,6 +1,6 @@
 //Nucleo do programa
 // Versao 1.0
-// 2025-04-14
+// DEV
 main{
     
     Codigo Principal
@@ -9,6 +9,10 @@ main{
     Ecolha_func: Ler_opcao {
         Op1: Func1
         Op2: Func2
+        Op3: Func3
+        Op4: Func4
+        Op5: Func5
+        Op6: Func6
         Sair: Func_encerra
     }
     
@@ -33,6 +37,22 @@ main{
     }
 
     Func2{
+        codigo
+    }
+
+    Func3{
+        codigo
+    }
+
+    Func4{
+        codigo
+    }
+
+    Func5{
+        codigo
+    }
+
+    Func6{
         codigo
     }
 
