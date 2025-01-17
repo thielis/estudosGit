@@ -14,6 +14,7 @@ main{
         Op5: func.Func5
         Op6: func.Func6
         Op6: func.Func7
+        Op6: func.Func8
         Sair: func.Func_encerra
     }
 
