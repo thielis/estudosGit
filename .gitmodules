@@ -1,0 +1,3 @@
+[submodule "estudosGitBiblioteca"]
+	path = estudosGitBiblioteca
+	url = https://github.com/thielis/estudosGitBiblioteca.git
