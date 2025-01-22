@@ -19,6 +19,7 @@ main{
         Op9: func.Func9
         Op10: func.Func10 //funcao extra 1
         Op11: func.Func11 // funcao extra 2
+        Op12: func.Func12 // funcao extra 2
 
         Sair: func.Func_encerra
     }

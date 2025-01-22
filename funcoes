@@ -53,9 +53,13 @@
     }
 
     Func10{
-        call estudosGitBiblioteca.FuncExtra1 (x)
+        call estudosGitBiblioteca.funcExtras.FuncExtra1 (x)
     }
 
     Func11{
-        call estudosGitBiblioteca.FuncExtra2 (x)
+        call estudosGitBiblioteca.funcExtras.FuncExtra2 (x)
+    }
+
+    Func12{
+        call estudosGitBiblioteca.funcExtras.FuncExtra3 (x)
     }
