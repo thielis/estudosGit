@@ -1,6 +1,6 @@
 //Nucleo do programa
-// Versao ver.2.1
-//2025-01-14 
+// Versao ver.2.3
+//2025-01-22
 
 main{
     
@@ -14,6 +14,10 @@ main{
         Op4: func.Func4
         Op5: func.Func5
         Op6: func.Func6
+        Op7: func.Func7
+        Op8: func.Func8
+        Op9: func.Func9
+
         Sair: func.Func_encerra
     }
 
