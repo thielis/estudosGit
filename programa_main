@@ -13,6 +13,10 @@ main{
         Op4: func.Func4
         Op5: func.Func5
         Op6: func.Func6
+        Op7: func.Func7
+        Op8: func.Func8
+        Op9: func.Func9
+
         Sair: func.Func_encerra
     }
 
