@@ -5,6 +5,7 @@
 main{
     
     Codigo Principal
+    Log: func.Func_log
     Conexao: func.Func_connect
     Autentica: func.Func_Seguranaca
     Ecolha_func: func.Ler_opcao {
@@ -26,7 +27,7 @@ main{
     }
 
     Rotina_de_verificacao{
-        time (120) { //segundos
+        executar time (120) { //segundos
         func.Func_refresh
         }
     }
