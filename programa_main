@@ -17,12 +17,16 @@ main{
         Op7: func.Func7
         Op8: func.Func8
         Op9: func.Func9
-        Op10: func.Func10 //funcao extra 1
+        Op10: func.Func10 // funcao extra 1
         Op11: func.Func11 // funcao extra 2
         Op12: func.Func12 // funcao extra 3
         Op13: func.Func13 // funcao extra 4
 
         Sair: func.Func_encerra
+    }
+
+    Rotina_de_verificacao{
+        
     }
 
 }

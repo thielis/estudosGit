@@ -16,6 +16,14 @@
         Retorna para Tela Inical
     }
 
+    Func_refresh{
+        verifica conexão{
+            deconectado reconecta
+            conectado segue sem fazer nada
+        }
+        
+    }
+
     Func1{
         codigo
     }
