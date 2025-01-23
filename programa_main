@@ -26,7 +26,9 @@ main{
     }
 
     Rotina_de_verificacao{
+        time (120) { //segundos
         func.Func_refresh
+        }
     }
 
 }
