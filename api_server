@@ -1,0 +1,30 @@
+//Serviço de servidor
+
+
+Server {
+    listeningIN {
+        api_http_route.httpINroute
+    }
+
+    código de processamento da entrada {
+        
+        lendo listeningIN
+        parsing
+        writeDBinfo {
+            código para gravar na DB
+            db_services.funcDBWrite
+        }
+    }
+
+    sendOUT {
+        
+        readDBinfo{
+            lendo banco db_services.funcDBRead
+            parsing
+        }
+        sending.httpOUTroute
+    }
+
+
+}
+
