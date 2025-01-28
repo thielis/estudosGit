@@ -33,6 +33,15 @@
             Mensagem: "Log criado"
     }
 
+    FuncUsuario {
+        chama funcao cadastro_usuarios.funCadastroUsuarios
+    }
+
+    FuncSystemSettings {
+        chama funcao system_settings.sytemSettings
+    }
+
+
     Func1{
         codigo
     }
