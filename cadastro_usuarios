@@ -1,0 +1,6 @@
+//Modulo de cadastro de usuarios
+
+funCadastroUsuarios {
+    codigo (campos de dados, funcao de insercao, etc)
+
+}
