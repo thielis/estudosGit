@@ -28,6 +28,18 @@ main{
         Sair: func.Func_encerra
     }
 
+    Processamento_entrada_DB {
+        Ler_opcao
+        codigo de Processamento
+        db_services.funcDBWrite
+    }
+
+    Processamento_saida_DB {
+        Ler_opcao
+        codigo de Processamento
+        db_services.funcDBRead
+    }
+
     Rotina_de_verificacao{
         executar time (120) { //segundos
         func.Func_refresh

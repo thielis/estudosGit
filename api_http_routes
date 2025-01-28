@@ -1,0 +1,9 @@
+//Define as rotas da api
+
+httpINroute {
+    .../saveRequest
+}
+
+httpOUTroute {
+    .../sendRequest
+}

@@ -1,0 +1,9 @@
+//modulo de comunicação com banco de dados
+
+funcDBWrite{
+    codigo para gravar
+}
+
+funcDBRead{
+    codigo para gravar
+}
