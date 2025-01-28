@@ -21,7 +21,7 @@ main{
         Op11: func.Func11 // funcao extra 2
         Op12: func.Func12 // funcao extra 3
         Op13: func.Func13 // funcao extra 4
-
+        OpSysSet: func.FuncSystemSettings //Parametros do sistema
         Sair: func.Func_encerra
     }
 
