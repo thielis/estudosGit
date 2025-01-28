@@ -1,0 +1,5 @@
+//Modulo de parametros do sistema
+
+sytemSettings {
+    codigo contendo os parametros editaveis
+}
